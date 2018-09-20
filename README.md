@@ -1,5 +1,5 @@
 # hello-world
 My first repository
-This is atest with Github, I hope it works.
+This is a test with Github, I hope it works.
 
 Cogito ergo sum.
